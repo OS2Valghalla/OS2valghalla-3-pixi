@@ -1,6 +1,7 @@
 ---
 title: Pixi til dokumentation
 layout: home
+nav_order: 1
 ---
 
 
