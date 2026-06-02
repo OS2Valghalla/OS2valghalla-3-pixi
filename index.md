@@ -13,9 +13,9 @@ Vejledningen er opdelt i 12 trin, som ses i menuen.
 
 </div>
 
-Hvis du ikke har en bruger på GitHub, skal du oprette en først: https://github.com
+Hvis du ikke har en bruger på GitHub, skal du oprette en først: [https://github.com](https://github.com)
 
-![](images/00_opret_profil.png)
+[](images/00_opret_profil.png)
 
 <!--
 Første ændring i index.md filen (:
