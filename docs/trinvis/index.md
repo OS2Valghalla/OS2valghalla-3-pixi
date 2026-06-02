@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Trin | samlet"
+nav_order: 1
 ---
 
 Nu til den egentlige vejledning, som er en skalerbar skabelon, der er sat op til at hjælpe OS2 projekter og produkter med at bygge gode overskuelige dokumentationssider.
