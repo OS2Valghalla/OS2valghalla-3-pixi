@@ -21,7 +21,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   </ol>
   <br>
   <p>Den sidste er den, vi bruger i denne vejledning.</p>
- <a href="(https://github.com/OS2offdig)">Gå til OS2s hovedorganisation</a>
+ <a href="https://github.com/OS2offdig">Gå til OS2s hovedorganisation</a>
 </details><br>
 
 <details>
