@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "Trin | samlet"
+layout: default
 nav_order: 2
 ---
 
