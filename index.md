@@ -3,12 +3,27 @@ title: Pixi til dokumentation
 layout: home
 ---
 
+
+<div style="background:#e4dfe8; padding:10px; border-radius:6px;">
+<h1><strong>PIXI til dokumentation</strong></h1>
+Vejledningen er en skalerbar skabelon, der er sat op til at hjælpe OS2 projekter og produkter med at bygge gode overskuelige dokumentationssider.<br>
+Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.<br><br>
+
+Vejledningen er opdelt i 12 trin, som ses i menuen.
+
+</div>
+
+Hvis du ikke har en bruger på GitHub, skal du oprette en først: (https://github.com)
+
+Billede fra GITHUB
+
+<!--
 Første ændring i index.md filen (:
 
 udkommentering af standard teksten.
 Udkommentering gøres med <!-- teksten -->
 
-<!--
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
