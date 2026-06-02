@@ -15,7 +15,7 @@ Vejledningen er opdelt i 12 trin, som ses i menuen.
 
 
 
-Hvis du ikke har en bruger på GitHub, skal du oprette en først: [https://github.com](https://github.com)
+Hvis du ikke har en bruger på GitHub, skal du oprette en først: [https://github.com](https://github.com)<br><br>
 
 ![Billede af github forside](docs/images/00_opret_profil.png)
 
