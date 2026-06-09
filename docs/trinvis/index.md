@@ -123,3 +123,31 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <p>Vælg: Commit changes.</p>
 
 </details><br>
+
+<details>
+  <summary><strong>Trin 9: Følg med i dit commit</strong></summary>
+
+  <p>Du kan klikke på [Actions] for at følge med i, hvor lang commit’et er kommet. Den brune prik indikerer at commit’et stadigt er i gang, grøn prik at det er gået igennem og rød prik, at der er opstået en fejl.</p><br>
+
+  <img src="../images/09_actions_for_at_se_bygget.png" alt="Følg med i bygget/build"><br><br>
+  <img src="../images/09-01_actions_for_at_se_bygget.png" alt="Status på bygget/build"><br><br>
+  <p>Det tager et lille stykke tid. Hvis der opstår en fejl, er der en uddybende beskrivelse af denne, hvis man tilgår bygget (tryk på det).</p>
+  <p>Nedenfor har _config-filen bygget med succes:</p><br>
+
+  <img src="../images/09-02_actions_for_at_se_bygget.png" alt="Byg/build succes"><br><br> 
+
+</details><br>
+
+<details>
+  <summary><strong>Trin 10: Adresselink (URL)</strong></summary>
+
+  <p>Gå nu tilbage til: Settings og vælg Pages</p><br>
+  <p>Siden er nu bygget og har fået en <strong>url</strong>:</p><br>
+
+  <img src="../images/10_url_live.png" alt="URL til siden"><br><br>
+
+  <p>Tryk på url’en og se siden.</p><br>
+
+  <img src="../images/10-01_url_live.png" alt="Selve siden"><br><br> 
+
+</details><br>
