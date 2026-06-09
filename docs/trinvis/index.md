@@ -101,9 +101,10 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <p>Der skal laves en tilføjelse til standard filen, så siderne bygges. Her kan titel og beskrivelse også ændres.</p>
   <img src="../images/08-03_config.png" alt="Sådan ser filen ud. Der skal laves en tilføjelse"><br><br>
 
-  <p>Tilføjelse (tryk på blyanten i fil-headeren for at redigere):  
+  <p>Tilføjelse (tryk på blyanten i fil-headeren for at redigere):    
   <img src="../images/08-06_config-edit.png" alt="Tryk på blyant for at redigere">
-  </p><br>
+  </p>
+  <p>Indsæt følgende kode nederst i filen:</p>
 
   <pre><code class="language-yaml">
   defaults:
