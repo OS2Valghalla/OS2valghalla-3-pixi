@@ -56,7 +56,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
 </details><br>
 
 <details>
-  <summary><strong>Trin 5: Opret repository'et</strong></summary>
+  <summary><strong>Trin 5: Byg repository'et</strong></summary>
 
   <p>Klik på: Create Repository – efter et lille stykke tid er der oprettet et repository under den valgte ’owner’ (i dette eksem OS2valghalla).</p>
   <br>
