@@ -115,7 +115,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
       layout: "default"
       has_toc: false # fjerner overordnet 'Table of contents'. has_toc kan sættes til true her eller i headeren på de individuelle sider
   </code></pre><br>
-  <p>Det er nødvendigt at være omhyggelig med indrykningerne i .yml-filen, da disse har betydning. Det vil give fejl, hvis de ikke er korrekte.</p><br>
+  <p>Det er nødvendigt at være omhyggelig med indrykningerne i .yml-filen, da disse har betydning. Det vil give fejl, hvis de ikke er korrekte.</p>
   <p>Klik på [Commit changes], når filen er ændret.</p><br>
 
   <img src="../images/08-04_config.png" alt="Commit changes"><br><br>
@@ -142,7 +142,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
 <details>
   <summary><strong>Trin 10: Adresselink (URL)</strong></summary>
 
-  <p>Gå nu tilbage til: Settings og vælg Pages</p><br>
+  <p>Gå nu tilbage til: Settings og vælg Pages</p>
   <p>Siden er nu bygget og har fået en <strong>url</strong>:</p><br>
 
   <img src="../images/10_url_live.png" alt="URL til siden"><br><br>
