@@ -91,7 +91,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
 </details><br>
 
 <details>
-  <summary><strong>Trin 8: Færdiggør bygning af sitet</strong></summary>
+  <summary><strong>Trin 8: Færdiggør bygning af siden</strong></summary>
 
   <p>Tryk på <> Code i topmenuen:</p><br>
 
