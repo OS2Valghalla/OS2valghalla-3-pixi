@@ -40,7 +40,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <br>
   <img src="../images/02_Use_this_template.png" alt="Vælg skabelon"><br><br>
   
-</details><br
+</details><br>
 
 <details>
   <summary><strong>Trin 4: Vælg ejer til repository'et</strong></summary>
@@ -53,9 +53,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <br>
   <img src="../images/03-01_owner_navn_public.png" alt="Vælg ejer til repository'et"><br><br>
   
-</details><br
-
-</details><br
+</details><br>
 
 <details>
   <summary><strong>Trin 5: Opret repository'et</strong></summary>
@@ -67,7 +65,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <p>’[OS2Valghalla/OS2valghalla-3-pixi] Run failed: Deploy Jekyll site to Pages’</p>
   <p><strong>Se bort fra den for nu.</strong></p>
   
-</details><br
+</details><br>
 
 <details>
   <summary><strong>Trin 6: Open Source licens</strong></summary>
@@ -78,7 +76,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <img src="../images/05_tjek_licens.png" alt="Tjek licencen"><br><br>
   <img src="../images/05_01_tjek_licens.png" alt="Tjek licencen"><br><br>
 
-</details><br
+</details><br>
 
 <details>
   <summary><strong>Trin 7: Klargør Pages</strong></summary>
@@ -90,7 +88,7 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <img src="../images/07_build_deploy.png" alt="Byg siderne"><br><br>
   <p>Nu er opsætningen blevet klargjort til at bygge siderne gennem GitHub Actions. Siderne bliver ikke bygget endnu - der skal laves en tilføjelse til _config.yml filen, se trin 8.</p>
 
-</details><br
+</details><br>
 
 <details>
   <summary><strong>Trin 8: Færdiggør bygning af sitet</strong></summary>
