@@ -152,3 +152,54 @@ Skabelonen hjælper med en hurtig opstart og understøtter en stabil struktur.
   <img src="../images/10-01_url_live.png" alt="Selve siden"><br><br> 
 
 </details><br>
+
+<details>
+  <summary><strong>Trin 11: Ret indexfilen til og angiv titel</strong></summary>
+
+  <p>En index-fil er systemets startpunkt. Den åbnes først og sørger for at vise den rigtige side eller starte den relevante funktionalitet ved at samle forbindelsen til de øvrige filer og komponenter.</p>
+  <p>Tryk på <> Code i topmenuen og vælg index.md i sidemenuen.</p><br>
+
+  <img src="../images/11_index_filen.png" alt="Index-filen"><br><br>
+
+  <p>Vælg blyanten for at redigere filen. Egenskaber, titel og tekst mv. kan ændres her.</p><br>
+
+  <img src="../images/11-01_index_filen_titel_tekst.png" alt="Rediger index-filen"><br><br>
+  <img src="../images/11-02_index_filen_titel_tekst.png" alt="Ny titel på index-filen"><br><br> 
+  <p>Tryk <strong>’Commit changes’</strong> og tilføj en beskrivende tekst.</p>
+  <p>Igen kan ’bygget’ ses under Actions.</p><br>
+  <img src="../images/11-03_index_filen_titel_tekst.png" alt="Tjek titel på siden"><br><br>
+
+  <p>Udkommentering gøres med: &lt;!-- teksten der skal udkommenteres --&gt;</p>
+
+  <p>På ’logo-pladsen’ står der stadig: Just the Docs Template. Dette ændres i _config.yml-filen.</p>
+  <p>Vælg <> Code i topmenuen og åbn _config.yml</p>
+  <p>Vælg blyanten for at redigere og ændr titel og beskrivelse.</p>
+  <p>Det er også muligt at lægge et logo her.</p><br>
+
+  <img src="../images/12_titel_logo.png" alt="Titel og logo på siden"><br><br>
+  <p>Commit changes…</p><br>
+  <img src="../images/12-01_titel_logo.png" alt="Titel og logo på siden"><br><br>
+
+</details><br>
+
+<details>
+  <summary><strong>Trin 12: Opret filer og mapper</strong></summary>
+
+  <p>Vælg: <> Code og tryk på mappen: docs</p>
+  <p>Herfra kan der oprettes filer og mapper. En mappe kan ikke være tom på GitHub, så man opretter den første fil samtidig med mappen (se markeret tekst længere nede på siden.</p><br>
+
+  <img src="../images/13_filer_mapper.png" alt="Opret filer og mapper"><br><br>
+
+  <p>Tryk på: Create new file for at oprette filer.</p><br>
+
+  <img src="../images/13-01_filer_mapper.png" alt="Opret fil"><br><br>
+  <p>Skriv navnet på filen og husk .md som filtype. Består navnet af flere ord, deles de med  underscore, fx: <mark>my_first_page.md</mark></p>
+  <p>Tryk ’Commit changes’ og lav en god beskrivelse.</p><br>
+  <img src="../images/13-02_filer_mapper.png" alt="Opret fil"><br><br>
+  <p><strong>For at lave en mappe:</strong></p>
+  <p>Tryk på: Create new file for at oprette mapper.</p>
+  <p>I feltet angives mappe navn, lav slash og skriv filnavnet på filen, fx: <mark>ny_mappe/fil.md</mark></p>
+  <p><strong>OBS</strong>: Der skal oprettes en fil i mappen, før den kan oprettes.</p>
+  <img src="../images/13-04_filer_mapper.png" alt="Opret mappe"><br><br>
+
+</details><br>
